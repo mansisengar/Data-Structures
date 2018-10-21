@@ -1,5 +1,5 @@
 #include<iostream>
-#define size 5
+#define size 100
 using namespace std;
 class queue{
 	int q[size],front,rear;
